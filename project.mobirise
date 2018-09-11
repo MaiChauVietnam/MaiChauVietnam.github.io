@@ -1184,11 +1184,12 @@
           "_anchor": "header2-3b",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "72px"
+              "font-size": "72px",
+              "text-align": "center"
             },
             ".mbr-section-text": {
-              "text-align": "right",
-              "font-size": "24px"
+              "text-align": "center",
+              "font-size": "18px"
             }
           }
         },
