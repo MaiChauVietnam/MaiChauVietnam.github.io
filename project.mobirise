@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau",
-    "currentPage": "index.html",
+    "currentPage": "Activities.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -566,7 +566,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/p6070350-1280x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p6070350-1-1280x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
