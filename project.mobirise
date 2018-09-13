@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau",
-    "currentPage": "Homestay.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -123,12 +123,12 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x144-2.png",
     "noImageResize": "",
-    "html_before": "",
+    "html_before": "<div id=\"google_translate_element\"></div><script type=\"text/javascript\">\r\nfunction googleTranslateElementInit() {\r\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\r\n}\r\n</script><script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>\r\n        ",
     "headbody": "",
     "botbody": "",
     "google-analytics": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 120,
+    "uniqCompNum": 128,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -500,7 +500,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Activities",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -1132,7 +1132,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Homestay",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1329,7 +1329,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Tours",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1968,7 +1968,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "The Loop",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2197,7 +2197,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Pa Co and Batik",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2419,7 +2419,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Pa Co and Tat Nang",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2641,7 +2641,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Discovery of Hoa Bình Lake",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2863,7 +2863,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "White Thai Villages Trekking Tour",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3091,7 +3091,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Discovery of Pu Luong Natural Reserve",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3319,7 +3319,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Contact us",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3483,7 +3483,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Gallery",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3622,7 +3622,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Xam Tạng Lake at Nong Luông village",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
