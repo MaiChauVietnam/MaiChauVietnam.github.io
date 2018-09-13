@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau - Vietnam",
-    "currentPage": "index.html",
+    "currentPage": "Homestay.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -137,7 +137,7 @@
       "settings": {
         "main": true,
         "title": "Mai Chau - Vietnam",
-        "meta_descr": "Homestay, what to do in Mai Chau. Tourism information about Mai Chau.",
+        "meta_descr": "Homestay, Tourism and other Activity services in Mai Chau, Vietnam.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -498,7 +498,7 @@
     },
     "Activities.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Workshops, master classes, local hand made in Mai Chau, Vietnam",
         "title": "Activities",
         "order": 13
       },
@@ -1327,8 +1327,8 @@
     },
     "Tours.html": {
       "settings": {
-        "meta_descr": "Everything you can see in May Chau, Vietnam.",
-        "title": "Tours",
+        "meta_descr": "Travel information about Mai Chau, Vietnam.",
+        "title": "Tours around Mai Chau",
         "order": 5
       },
       "components": [
@@ -1966,7 +1966,7 @@
     },
     "The_Loop.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "The Hoa Binh Loop. Mai Chau, Vietnam",
         "title": "The Loop",
         "order": 6
       },
@@ -2195,7 +2195,7 @@
     },
     "Pa-Co_and_Batik.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Expirience of the Hmong market in Pa Co village and local authentic handycraft - batik - with natural fabrick and colors.",
         "title": "Pa Co and Batik",
         "order": 10
       },
@@ -2417,7 +2417,7 @@
     },
     "Pa-Co_and_Tat_Nang.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Expirience of the Hmong market in Pa Co village and travel to Tat Nang waterfall",
         "title": "Pa Co and Tat Nang",
         "order": 9
       },
@@ -2639,7 +2639,7 @@
     },
     "Discovery_of_Hoa_Bình_Lake.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Hoa Binh Lake - travel by boat to the temple island",
         "title": "Discovery of Hoa Bình Lake",
         "order": 11
       },
@@ -2861,7 +2861,7 @@
     },
     "White_Thai_Villages_Trekking_Tour.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Exploring of the White Thai villages in Mai Chau, Vietnam",
         "title": "White Thai Villages Trekking Tour",
         "order": 8
       },
@@ -3089,7 +3089,7 @@
     },
     "Discovery_of_Pu_Luong_Natural_Reserve.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Travel to Pu Luong Natural Reserve from Mai Chau, Vietnam",
         "title": "Discovery of Pu Luong Natural Reserve",
         "order": 7
       },
