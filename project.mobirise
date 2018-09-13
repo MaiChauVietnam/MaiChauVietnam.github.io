@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Mai Chau",
+    "name": "Mai Chau - Vietnam",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -136,8 +136,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Mai Chau - Vietnam",
+        "meta_descr": "Homestay, what to do in Mai Chau. Tourism information about Mai Chau.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1130,8 +1130,8 @@
     },
     "Homestay.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Homestay",
+        "meta_descr": "Home stay in Mai Chau. Hoa Ban homestay.  Online booking guesthouse, homestay. Free wifi, free breakfast, free bicycle.",
+        "title": "Hoa Ban Homestay",
         "order": 4
       },
       "components": [
@@ -1327,7 +1327,7 @@
     },
     "Tours.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Everything you can see in May Chau, Vietnam.",
         "title": "Tours",
         "order": 5
       },
