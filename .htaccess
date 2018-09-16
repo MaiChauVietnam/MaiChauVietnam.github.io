@@ -1,14 +1,6 @@
 Options All -ExecCGI -Indexes -Includes +FollowSymLinks
 #Options -MultiViews
 
-<IfModule mod_rewrite.c>
-	RewriteEngine on
-	RewriteBase /
-	RewriteCond %{HTTP_HOST} ^www.MaiChauVietnam.github.io
-	RewriteRule (.*) http://MaiChauVietnam.github.io/$1 [R=301,L]
-	RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
-	RewriteRule ^index\.html$ http://MaiChauVietnam.github.io/ [R=301,L]
-	RewriteCond %{REQUEST_FILENAME} !-f
-	RewriteCond %{REQUEST_FILENAME} !-d
-	RewriteRule ^(.*)$ index.html [L,QSA]
-</IfModule>
+RewriteEngine on 
+RewriteCond %{HTTP_HOST} ^www.maichauvietnam.github\.io [NC]
+RewriteRule ^(.*)$ http://maichauvietnam.github.io/$1 [R=301,L]
