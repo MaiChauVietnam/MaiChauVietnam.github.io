@@ -1,8 +1,6 @@
 Options All -ExecCGI -Indexes -Includes +FollowSymLinks
 #Options -MultiViews
 
-RewriteEngine on 
-RewriteCond %{HTTP_HOST} ^www.maichauvietnam.github.io [NC]
-RewriteRule ^(.*)$ http://maichauvietnam.github.io/$1 [R=301,L]
 RewriteEngine On
-RewriteRule ^directory/index.html$ http://www.maichauvietnam.github.io/index.html [L,R=301]
+RewriteCond %{HTTP_HOST} ^www.MaiChauVietnam.github.io $ [NC]
+RewriteRule ^(.*)$ http://MaiChauVietnam.github.io/$1 [R=301,L]
