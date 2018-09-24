@@ -245,7 +245,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p5189369-3-1200x900.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p5189369-4-1200x900.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -255,7 +255,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.2"
           },
           "title": "Welcome to&nbsp;Mai Châu",
           "text": "to touch the local life of Vietnamese ethnic<br><br><br><br><br>",
@@ -332,8 +332,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/p5189387-1200x900.jpg",
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Mai Chai, Vietnam",
+              "title": "view point"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -388,10 +388,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/p5259603-3-1200x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p5259603-5-1200x900.jpg",
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "travel",
+              "title": "Mai Chau, Vietnam"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
