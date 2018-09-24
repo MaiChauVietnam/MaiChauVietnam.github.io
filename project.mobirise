@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau - Vietnam",
-    "currentPage": "index.html",
+    "currentPage": "Homestay.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1401,9 +1401,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "The_Loop.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1412,9 +1413,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Discovery_of_Pu_Luong_Natural_Reserve.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -1423,9 +1425,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Pa-Co_and_Tat_Nang.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -1564,9 +1567,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Pa-Co_and_Batik.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1575,9 +1579,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Discovery_of_Hoa_Bình_Lake.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -1700,9 +1705,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Xam_Tang_Lake_at_Nong_Luong_village.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1711,9 +1717,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "White_Thai_Villages_Trekking_Tour.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -2779,8 +2786,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/unspecified-600x399.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unspecified-600x399-600x399.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unspecified-1280x852.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unspecified-1280x852-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2791,8 +2798,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/4-1280x852.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-1280x852-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-1279x666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1279x666-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2803,8 +2810,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1-1280x852.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-1280x852-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1-1280x852.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1-1280x852-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2815,8 +2822,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/71-4-1267x950.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/71-4-1267x950-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-1-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1-1280x960-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3225,16 +3232,16 @@
             "filter": false,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5199461-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5199461-1200x900-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p5199484-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5199484-2-1200x900-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -3249,12 +3256,12 @@
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/33784281-2140691659284908-2781560050844434432-n-2-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/33784281-2140691659284908-2781560050844434432-n-2-1200x900-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p5199464-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5199464-2-1200x900-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3265,12 +3272,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5199530-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5199530-1200x900-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p5199417-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5199417-2-1200x900-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
