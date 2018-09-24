@@ -531,9 +531,11 @@ h6,
 }
 #msg-box5-21 H3 {
   font-size: 32px;
+  text-align: center;
 }
 #msg-box5-2a H3 {
   font-size: 32px;
+  text-align: center;
 }
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
@@ -600,21 +602,27 @@ h6,
 }
 #msg-box5-2b H3 {
   font-size: 32px;
+  text-align: center;
 }
 #msg-box5-29 H3 {
   font-size: 32px;
+  text-align: center;
 }
 #msg-box5-25 H3 {
   font-size: 32px;
+  text-align: center;
 }
 #msg-box5-2c H3 {
   font-size: 32px;
+  text-align: center;
 }
 #msg-box5-2d H3 {
   font-size: 32px;
+  text-align: center;
 }
 #msg-box5-28 H3 {
   font-size: 32px;
+  text-align: center;
 }
 #contacts2-s P {
   font-family: 'Josefin Sans', sans-serif;

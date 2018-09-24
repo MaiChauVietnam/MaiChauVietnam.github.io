@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau - Vietnam",
-    "currentPage": "index.html",
+    "currentPage": "Activities.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -525,7 +525,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Activities",
-          "text": "All of our workshops have the goal of preserving the traditions and crafts of the White Thai ethnic group and of sharing this culture with the whole world. Cooperating with local people at some of our workshops, we support them by giving additional income and maintaining the value of their skills. We hope that due to our guests' interest in folk crafts, our traditions will be carried on by the younger generation.&nbsp;<br>",
+          "text": "All of our workshops have the goal of preserving the traditions and crafts of the White Thai ethnic group and of sharing this culture with the whole world. Cooperating with local people at some of our workshops, we support them by giving additional income and maintaining the value of their skills. We hope that due to our guests' interest in folk crafts, our traditions will be carried on by the younger generation<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Тема"
@@ -567,7 +567,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/p6070350-1-1280x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dance-960x640.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -584,7 +584,7 @@
               "size": 0
             }
           },
-          "title": "Traditional Dance and Rice Wine party.\n",
+          "title": "Traditional Dance <br>and Rice Wine party",
           "text": "One of the most popular forms of folk entertainment in Mai Chau is a traditional dance show. The Xoe Dance of the Thai Ethnic Group has recently been officially recognised as a national cultural heritage.  It is a long-standing folk cultural form of the Thai people that has been passed down through many generations. The dance is performed by boys and girls, who hold hands to form a circle and dance together. The musical instruments for the dance include gourd lutes, drums, two-chord fiddles, gongs and cymbals. Traditional songs are part of the show as well as the bamboo dance  (nhảy sạp) - a joint game with the audience. Drinking a homemade alcohol during this merriment is a must! \"Can\" Wine is a unique speciality of the Mai Chau region. It is different from the strong rice wine which you find in the rest of Vietnam. \"Can\" Wine is made from glutinous rice, ginger, Mai Chau \"com lam\" (a sort of delicious rice in ethnic minority) and various other ingredients. The wine is served in a big ceramic jar with long straws. Sitting around the jar and sipping wine through a straw is the perfect way to socialise and exchange impressions of the festivities. &nbsp;&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -594,7 +594,8 @@
           "_anchor": "msg-box5-21",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           }
         },
@@ -641,7 +642,7 @@
               "size": 0
             }
           },
-          "title": "Workshops at \"Hoa Ban Plus\" Factory.",
+          "title": "Workshops at <br>\"Hoa Ban Plus\" Factory",
           "text": "\"Hoa Ban +\" is a famous handicraft factory in Mai Chau. It was started by Mrs. Thuan in 2008. She had two goals when she started the business - to preserve the White Thai traditional culture and to support poor and disabled women in the Mai Chau area. At \"Hoa Ban+\" Mrs. Thuan gives the women a place to live as well as teaching them how to make products in the old traditional way. Factory products are a combination of weaving, sewing and embroidery. Everything is 100% natural and handmade, even the color of the yarn is made of natural colors from plants. Many of the products are raw silk, which means they are made of silk extracted from silk worms in the area. When you buy one of these products you do not only gain a high quality handmade item, you get a little piece of culture and give these women a chance for a better life. \"Hoa Ban+ is not only a brand, but a hope!\" By the way, the factory is always open for international orders of different volumes.For more information visit Facebook \"Hoa Ban Handmade Handicraft\". <br>\"Hoa Ban Plus\" has a number of workshops for visitors. You can book from us directly.- Weaving on traditional loom and spinning cotton threads- Fabric dyeing with natural dyes.- Bracelet braiding <br>- Embroidery (you will learn how to embroider your name or a friend's name on a bag, scarf or any other product purchased at the factory)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -651,7 +652,8 @@
           "_anchor": "msg-box5-2a",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           }
         },
@@ -791,7 +793,7 @@
               "size": 0
             }
           },
-          "title": "Cooking classes. Traditional White Thai food",
+          "title": "Cooking classes. <br>Traditional White Thai food",
           "text": "At our homestay we have a tradition to gather together in the evening for a Family Dinner. This is the time to share traditional Vietnamese food and your adventure stories with other guests and our family. Before that you can join us in the kitchen and help us with the cooking. You can learn how to make spring rolls or get to know some local vegetables and simple recipes for their preparation. But for real gourmets and those interested in authentic cuisine we have something special - a cooking class on the delicacies of the White Thai people.To buy the ingredients of our dish we will visit the Mai Chau town market. You will learn how to ask for the price and try to learn some Vietnamese numbers.After that we will cook a traditional meal. Either sticky rice in bamboo, sticky rice cakes with banana leaves, colored sticky rice or grilled, stuffed bamboo. This exciting process will end with a meal and local rice wine.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -801,7 +803,8 @@
           "_anchor": "msg-box5-2b",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           }
         },
@@ -858,7 +861,8 @@
           "_anchor": "msg-box5-29",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           }
         },
@@ -915,7 +919,8 @@
           "_anchor": "msg-box5-25",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           }
         },
@@ -972,7 +977,8 @@
           "_anchor": "msg-box5-2c",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           }
         },
@@ -1029,7 +1035,8 @@
           "_anchor": "msg-box5-2d",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           }
         },
@@ -1085,7 +1092,8 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           },
           "_anchor": "msg-box5-28"
