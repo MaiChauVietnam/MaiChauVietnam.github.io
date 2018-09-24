@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau - Vietnam",
-    "currentPage": "Homestay.html",
+    "currentPage": "The_Loop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3232,24 +3232,12 @@
             "filter": false,
             "images": [
               {
-                "tags": "Creative",
+                "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5199484-2-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5199484-2-1200x900-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5199481-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5199481-1200x900-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p5199417-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5199417-2-1200x900-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3268,12 +3256,24 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5199417-2-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5199417-2-1200x900-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p5199484-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5199484-2-1200x900-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p5199481-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5199481-1200x900-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
