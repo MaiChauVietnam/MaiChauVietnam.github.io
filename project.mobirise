@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau - Vietnam",
-    "currentPage": "Activities.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -267,7 +267,7 @@
           "_anchor": "header1-2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#232323",
+              "color": "#ffffff",
               "font-family": "'Merienda', handwriting",
               "googleLink": "https://fonts.googleapis.com/css?family=Merienda:400,700",
               "font-size": "80px"
