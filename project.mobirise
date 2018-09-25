@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau - Vietnam",
-    "currentPage": "index.html",
+    "currentPage": "The_Loop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -128,7 +128,7 @@
     "botbody": "<div id=\"google_translate_element\"></div><script type=\"text/javascript\">\r\nfunction googleTranslateElementInit() {\r\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT, autoDisplay: false}, 'google_translate_element');\r\n}\r\n</script><script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>\r\n        ",
     "google-analytics": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 128,
+    "uniqCompNum": 131,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -2194,6 +2194,42 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Patrick Hand SC', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Patrick+Hand+SC:400",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#282828",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "text": "Share this page!",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-3k"
         },
         {
           "_params": {
