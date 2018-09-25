@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand:400);
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Patrick+Hand+SC:400);
 
 
 
@@ -920,7 +919,6 @@ h6,
 
 
 
-
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
   text-align: center;
@@ -995,14 +993,6 @@ h6,
 #content1-34 P {
   font-family: 'Lora', serif;
   text-align: left;
-}
-#social-buttons3-3k .mbr-section-title,
-#social-buttons3-3k .btn-social {
-  color: #fff;
-}
-#social-buttons3-3k .mbr-section-title {
-  font-family: 'Patrick Hand SC', handwriting;
-  font-size: 24px;
 }
 
 

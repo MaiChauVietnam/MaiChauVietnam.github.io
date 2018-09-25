@@ -2196,42 +2196,6 @@
           }
         },
         {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Patrick Hand SC', handwriting",
-              "googleLink": "https://fonts.googleapis.com/css?family=Patrick+Hand+SC:400",
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#282828",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "_tags": [
-            "Тема"
-          ],
-          "text": "Share this page!",
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-3k"
-        },
-        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
