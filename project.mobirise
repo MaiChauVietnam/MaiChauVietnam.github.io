@@ -270,7 +270,7 @@
               "color": "#ffffff",
               "font-family": "'Merienda', handwriting",
               "googleLink": "https://fonts.googleapis.com/css?family=Merienda:400,700",
-              "font-size": "80px"
+              "font-size": "48px"
             },
             ".mbr-section-lead": {
               "font-family": "'Patrick Hand', handwriting",
@@ -446,7 +446,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text": "<p>There is a possibility to arrive from Hanoi with a public bus for 100k d. You can take also tourist bus to Son La or Dien Bien, but you should drop out at Tong Dau juncton and take taxi to Hoa Ban Homestay. If you want we can pick you up from Hanoi International Airport to here.</p>",
+          "text": "<p>There is a possibility to arrive from Hanoi with a public bus for 100k d. You can take also tourist bus to Son La or Dien Bien, but you should drop out at Tong Dau juncton and take taxi to Hoa Ban Homestay. </p><p>If you want, we can pick you up from Hanoi International Airport to here.</p>",
           "_tags": [
             "Тема"
           ],
@@ -499,7 +499,7 @@
     },
     "Activities.html": {
       "settings": {
-        "meta_descr": "Workshops, master classes, local hand made in Mai Chau, Vietnam",
+        "meta_descr": "What to do in Mai Chau.\nWorkshops, master classes, local hand made in Mai Chau, Vietnam",
         "title": "Activities",
         "order": 13
       },
@@ -1193,7 +1193,7 @@
           "_anchor": "header2-3b",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "72px",
+              "font-size": "60px",
               "text-align": "center"
             },
             ".mbr-section-text": {
@@ -1361,7 +1361,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "Travel around Mai Châu",
+          "title": "Travel around <br>Mai Châu",
           "text": "We offer combined packages of culture and nature tours",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -1371,11 +1371,12 @@
           "_anchor": "header1-10",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "46px"
+              "font-size": "48px"
             }
           }
         },
@@ -3811,8 +3812,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p6040298-2-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p6040298-2-1200x900-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p6040298-2-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p6040298-2-2-1200x900-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
