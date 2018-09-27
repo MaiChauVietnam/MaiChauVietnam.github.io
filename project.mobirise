@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau - Vietnam",
-    "currentPage": "The_Loop.html",
+    "currentPage": "Xam_Tang_Lake_at_Nong_Luong_village.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2124,7 +2124,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5169188-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5169188-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Hoa Binh lake, Da river. View point",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2136,10 +2136,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5169242-2-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5169242-2-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Hoa Binh lake, Da river",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -2148,7 +2148,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5189369-3-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5189369-3-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Mai Chau valley. View point",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2160,10 +2160,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5169129-1280x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5169129-1280x960-800x600.jpg",
-                "alt": "",
+                "alt": "Go Lao waterfall",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -2351,21 +2351,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5279675-1280x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5279675-1280x960-800x600.jpg",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/p5279675-3-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5279675-3-1200x900-800x600.jpg",
+                "alt": "Hmong ethnic market in Pa Co village, traditional clothes of Hmong people, handmade embroidering",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5279661-1280x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5279661-1280x960-800x600.jpg",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/p5279661-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5279661-2-1200x900-800x600.jpg",
+                "alt": "Pa Co market. Hmong ethnic handcrafts, handmade embroidering, traditional market",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2377,7 +2377,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/batik2-1-1548x871.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/batik2-1-1548x871-800x600.jpg",
-                "alt": "",
+                "alt": "Batic workshop, Hmong handicrafts, Vietnam ethnic",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2389,10 +2389,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/batik-1-1548x871.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/batik-1-1548x871-800x600.jpg",
-                "alt": "",
+                "alt": "Batic handicraft workshop, Hmong ethnic in Vietnam",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -2569,13 +2569,25 @@
             "filter": false,
             "images": [
               {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p5279681-1-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5279681-1-1200x900-800x600.jpg",
+                "alt": "Hmong ethnic market at Pa Co village, Vietnam",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5279709-1-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5279709-1-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Tat Nang waterfall, Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2585,9 +2597,9 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5279690-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5279690-1200x900-800x600.jpg",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/p5279690-1-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5279690-1-1200x900-800x600.jpg",
+                "alt": "Mountain rice terrace in Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2599,19 +2611,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5279774-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5279774-1200x900-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5279681-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5279681-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Tat Nang waterfall, Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
@@ -2797,7 +2797,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/unspecified-1280x852.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/unspecified-1280x852-800x600.jpg",
-                "alt": "",
+                "alt": "Thác Bờ Cave",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
@@ -2807,9 +2807,9 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/5-1279x666.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-1279x666-800x600.jpg",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/2-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2-1200x900-800x600.jpg",
+                "alt": "Boat tour at Hoa Binh lake (Da river)",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2821,7 +2821,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/1-1-1280x852.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1-1-1280x852-800x600.jpg",
-                "alt": "",
+                "alt": "Thac Bo cave",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2833,7 +2833,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/7-1-1280x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/7-1-1280x960-800x600.jpg",
-                "alt": "",
+                "alt": "Thac Bo temple",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -3013,25 +3013,37 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/road-1224x918.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/road-1224x918-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5259603-4-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5259603-4-1200x900-800x600.jpg",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/vietnam-110-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vietnam-110-1200x900-800x600.jpg",
+                "alt": "Farmer on a bicycle in Mai Chau village, Vietnam.",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p5128814-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5128814-2-1200x900-800x600.jpg",
+                "alt": "Mai Chau rice fields",
+                "title": "Rice fields arround Mai Chau",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vietnam-8-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vietnam-8-1200x800-800x600.jpg",
+                "alt": "White Thai handicrafts in Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -3043,19 +3055,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p6070379-2-1600x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p6070379-2-1600x1200-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p5299905-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p5299905-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Buffalo in Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
@@ -3247,7 +3247,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5199417-2-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5199417-2-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Pu Luong natural reserve",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -3259,7 +3259,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5199464-2-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5199464-2-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Water wheels in Pu Luong",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -3271,7 +3271,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5199484-2-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5199484-2-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Hieu river at Pu Luong",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
@@ -3283,7 +3283,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5199481-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5199481-1200x900-800x600.jpg",
-                "alt": "",
+                "alt": "Hieu Waterfall in Pu Luong",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -3304,7 +3304,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>After breakfast a local guide will pick you up at Hoa Ban homestay (or your hotel) and start for the trip to Pu Luong Natural Reserve. On the long way we will stop at a number of amazing observation points to overlook the deep green valleys of the reserve, and you will be able to stop at points on your request. We will have time to try local tea and take photos with local people. After that we will get down into the valley of Phố Đoàn and Cổ lũng villages to experience the local markets. On the way to the villages we will pass by the regional river which the villagers use for agriculture,. We will see the rice fields that are flooded by an authentic method with beautiful water wheels. After all of the this goodness, we will get off from the transport and make a short trekking up to Hieu Village and visit a house of Thai people, take a rest and have a lunch there. After the lunch we will go to swim in Hieu Waterfall. Afterwards we will drive back to Hoa Ban Homestay, Mai Chau and finish the tour. The tour is about 9 hours.</p><p><br></p><p><i>Tour includes:</i></p><p><i>1. Transportation</i></p><p><i>2. Local guide</i></p><p><i>3. Lunch and local snacks</i></p><p><i>4. Water</i></p><p><i><br></i></p><p><i>Please don't forget to take with you:</i></p><p><i>1. Sun cream</i></p><p><i>2. Swimming suite and towel</i></p><p><i>3. Insect spray</i></p><p><i>4. Photo camera</i></p><p><br></p><p>We look forward to seeing you on this wonderful tour!</p>",
+          "text": "<p>After breakfast a local guide will pick you up at Hoa Ban homestay (or your hotel) and start for the trip to Pu Luong Natural Reserve. On the long way we will stop at a number of amazing observation points to overlook the deep green valleys of the reserve, and you will be able to stop at points on your request. We will have time to try local tea and take photos with local people. After that we will get down into the valley of Phố Đoàn and Cổ lũng villages to experience the local markets. On the way to the villages we will pass by the regional river which the villagers use for agriculture,. We will see the rice fields that are flooded by an authentic method with beautiful water wheels. After all of the this goodness, we will get off from the transport and make a short trekking up to Hieu Village and visit a house of Thai people, take a rest and have a lunch there. After lunch we will go to swim in Hieu Waterfall. Afterwards we will drive back to Hoa Ban Homestay, Mai Chau and finish the tour. The tour is about 9 hours.</p><p><br></p><p><i>Tour includes:</i></p><p><i>1. Transportation</i></p><p><i>2. Local guide</i></p><p><i>3. Lunch and local snacks</i></p><p><i>4. Water</i></p><p><i><br></i></p><p><i>Please don't forget to take with you:</i></p><p><i>1. Sun cream</i></p><p><i>2. Swimming suite and towel</i></p><p><i>3. Insect spray</i></p><p><i>4. Photo camera</i></p><p><br></p><p>We look forward to seeing you on this wonderful tour!</p>",
           "_tags": [
             "Тема"
           ],
@@ -3812,8 +3812,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p6040298-2-2-1200x900.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p6040298-2-2-1200x900-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p6040298-2-3-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p6040298-2-3-1200x900-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
