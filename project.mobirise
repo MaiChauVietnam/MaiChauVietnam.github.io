@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mai Chau - Vietnam",
-    "currentPage": "index.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -128,7 +128,7 @@
     "botbody": "<div id=\"google_translate_element\"></div><script type=\"text/javascript\">\r\nfunction googleTranslateElementInit() {\r\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT, autoDisplay: false}, 'google_translate_element');\r\n}\r\n</script><script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>\r\n        ",
     "google-analytics": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 140,
+    "uniqCompNum": 150,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -349,7 +349,7 @@
           },
           "title": "About Mai Châu",
           "text": "Mai Chau is a district of Hoa Binh province, 135 km southwest of Hanoi and is a small town surrounded by ancient villages, the hometown of white Thai, H'Mong, Muong, Dao, Tay and Kinh people. According to the latest statistics Mai Chau district has a total natural area of ​​57,127.98 hectares. The average population is 54 540 people.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Activities.html\" data-toolbar=\"-mbrBtnMove\">Here you can learn more about local crafts &amp; culture&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Activities.html\" data-toolbar=\"-mbrBtnMove\">LEARN ABOUT LOCAL CRAFTS &amp; CULTURE&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -407,7 +407,7 @@
           },
           "title": "Exploring Mai Chau",
           "text": "&nbsp;Mai Chau's main attraction lies in the idyllic setting of a green valley surrounded by mountains and lush forests. Fertile rice paddies produce a harvest twice a year, which make this area unique. Mai Chau is an ideal place to get closer to nature and indigenous culture. Although most ethnic minorities in Mai Chau are no longer wearing traditional costumes in their daily lives, they still maintain their ancient culture in a way they build traditional stilt houses, the way they grow rice on the farm. The rice is flooded by streams and reeds, the way they farm fish in small ponds near their homes, all remain unchanged. With picturesque views and rich culture, Mai Chau creates a great destination to escape the bustling city, and live a relaxed and happy life amidst the beautiful natural scenery.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Tours.html\" data-toolbar=\"-mbrBtnMove\">Our tours around Mai Chau district</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Tours.html\" data-toolbar=\"-mbrBtnMove\">TOURS AROUND MAI CHAU</a>",
           "_tags": [
             "Тема"
           ],
@@ -501,7 +501,7 @@
       "settings": {
         "meta_descr": "What to do in Mai Chau.\nWorkshops, master classes, local hand made in Mai Chau, Vietnam",
         "title": "Activities",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -1159,7 +1159,7 @@
       "settings": {
         "meta_descr": "Home stay in Mai Chau. Hoa Ban homestay.  Online booking guesthouse, homestay. Free wifi, free breakfast, free bicycle.",
         "title": "Hoa Ban Homestay",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1356,7 +1356,7 @@
       "settings": {
         "meta_descr": "Travel information about Mai Chau, Vietnam.",
         "title": "Tours around Mai Chau",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -1574,7 +1574,7 @@
             "columnsColor": "#7e9b9f",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1667,7 +1667,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"Pa-Co_and_Batik.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"Discovery_of_Hoa_Bình_Lake.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"White_Thai_Villages_Trekking_Tour.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1712,7 +1712,7 @@
             "columnsColor": "#2e2e2e",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1740,19 +1740,18 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/p5259603-4-1200x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p5068606-2-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "White_Thai_Villages_Trekking_Tour.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/p5279709-1-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pa-co-1-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1788,11 +1787,11 @@
           "title1": "<span style=\"font-weight: normal;\">Xam Tạng Lake at Nong Luông village</span>",
           "subtitle1": "<font color=\"#ffffff\" face=\"Josefin Sans, sans-serif\"><span style=\"font-size: 20px;\">1/2 Day Tour</span></font>",
           "caption1": "<i>4 hours</i>",
-          "title2": "White Thai Villages Trekking Tour",
-          "subtitle2": "1/2 Day Tour",
+          "title2": "Ha Noi - Mai Chau -Ha Noi",
+          "subtitle2": "1 &nbsp;Day Tour Package",
           "caption2": "",
-          "title3": "Pa Co market and <br>Tat Nang waterfall",
-          "subtitle3": "8 hours",
+          "title3": "Ha Noi - Mai Chau - Ha Noi",
+          "subtitle3": "3 Days 2 Nights Tour Package",
           "caption3": "",
           "title4": "Tour to Nong Luong lake",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -1804,8 +1803,8 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"Xam_Tang_Lake_at_Nong_Luong_village.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"White_Thai_Villages_Trekking_Tour.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2003,7 +2002,7 @@
       "settings": {
         "meta_descr": "The Hoa Binh Loop. Mai Chau, Vietnam",
         "title": "The Loop",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -2232,7 +2231,7 @@
       "settings": {
         "meta_descr": "Expirience of the Hmong market in Pa Co village and local authentic handycraft - batik - with natural fabrick and colors.",
         "title": "Pa Co and Batik",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -2374,7 +2373,7 @@
                 "alt": "Hmong ethnic market in Pa Co village, traditional clothes of Hmong people, handmade embroidering",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -2405,12 +2404,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/batik-1-1548x871.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/batik-1-1548x871-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pa-co-4-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pa-co-4-1200x900-800x600.jpg",
                 "alt": "Batic handicraft workshop, Hmong ethnic in Vietnam",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -2454,7 +2453,7 @@
       "settings": {
         "meta_descr": "Expirience of the Hmong market in Pa Co village and travel to Tat Nang waterfall",
         "title": "Pa Co and Tat Nang",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -2676,7 +2675,7 @@
       "settings": {
         "meta_descr": "Hoa Binh Lake - travel by boat to the temple island",
         "title": "Discovery of Hoa Bình Lake",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -2898,7 +2897,7 @@
       "settings": {
         "meta_descr": "Exploring of the White Thai villages in Mai Chau, Vietnam",
         "title": "White Thai Villages Trekking Tour",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -3126,7 +3125,7 @@
       "settings": {
         "meta_descr": "Travel to Pu Luong Natural Reserve from Mai Chau, Vietnam",
         "title": "Discovery of Pu Luong Natural Reserve",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -3354,7 +3353,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Contact us",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -3555,7 +3554,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Gallery",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -3694,7 +3693,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Xam Tạng Lake at Nong Luông village",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -3827,18 +3826,6 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p6040287-finish-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p6040287-finish-1600x1200-800x600.jpg",
-                "alt": "Xam Tang lake",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -3846,18 +3833,6 @@
                 "image": "@PROJECT_PATH@/assets/images/p6040263-3-1600x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p6040263-3-1600x1200-800x600.jpg",
                 "alt": "Hoa Binh mountains",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p6040266-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p6040266-1600x1200-800x600.jpg",
-                "alt": "Farm houses in mountains, Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -3873,6 +3848,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p6040287-finish-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p6040287-finish-1600x1200-800x600.jpg",
+                "alt": "Xam Tang lake",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p6040266-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p6040266-1600x1200-800x600.jpg",
+                "alt": "Farm houses in mountains, Vietnam",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -3909,6 +3908,450 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-3v"
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Hanoi - Mai Chau - Hanoi",
+        "order": 12
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px",
+              "color": "#282828"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#90a878"
+          },
+          "title": "Ha Noi - Mai Chau - Ha Noi",
+          "meta": "1 Day Tour Package",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3w"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Merienda', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merienda:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merienda:400,700",
+              "font-family": "'Merienda', handwriting"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#424242"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#535353!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#5b5b5b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#90a878!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#5b5b5b",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Merienda",
+              "url": "https://fonts.googleapis.com/css?family=Merienda:400,700",
+              "css": "'Merienda', handwriting"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">ABOUT MAI CHAU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Homestay.html\" aria-expanded=\"false\">HOMESTAY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Tours.html\" aria-expanded=\"false\">TOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Activities.html\" aria-expanded=\"false\">ACTIVITIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-114x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Hoa Ban Homestay</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3x"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p5259605-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5259605-1280x960-800x600.jpg",
+                "alt": "Xam Tang lake",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rice2-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rice2-1280x960-800x600.jpg",
+                "alt": "Hoa Binh mountains",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170927-wa0040-2-1599x1066.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170927-wa0040-2-1599x1066-800x600.jpg",
+                "alt": "Farm houses in mountains, Vietnam",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p5068606-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5068606-2-1200x900-800x600.jpg",
+                "alt": "Hồ Xam Tạng",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3y"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>1 DAY TRIP TO MAI CHAU (DAILY DEPARTURE)</p><p><br></p><p>Mai Chau is a district of Hoa Binh province, 150km south-west of Hanoi and is a small town surrounded by ancient villages of the White Thai, H’Mong, Muong, Dao, Tay and Kinh people.</p><p>Mai Chau is one of the attractive destinations of the Northern Vietnam, with its magnificent rutes and cultural experiences. Come to Hoaban homestay for a day trip to Mai Chau to discover and learn about local life here.</p><p><br></p><p><br></p><p>7:00 - 7:30 - Car and tour guide will pick you up at Ngo Huyen in Hoan Kiem District (Old Quarter).</p><p><br></p><p>10:30 - Stop to take a rest at Thung Khe Pass view point - one of the most beautiful roads of the North West Road.</p><p><br></p><p>12:00 - Arrival to Lac village, the village of White Thai ethnic group. Visitors will have lunch at Hoa Ban Homestay with traditional dishes of Thai people.&nbsp;</p><p><br></p><p>13:00 - After lunch we start our journey to discover Mai Chau Valley with many small villages of the White Thai ethnic minority by bike. Here you will experience the traditional production of brocade weaving, participate in the training class on fabric, dye natural fabrics with local masters to feel and know more about life and the culture of the White Thai.</p><p><br></p><p>16:30 - Return to Hanoi. On the way back, you will visit and take photos at Mai Chau view point and say goodbye to Mai Chau Valley.</p><p><br></p><p>20:20 - Arrival in Hanoi. End of the program.</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">BOOK THIS TOUR</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Tours.html\" data-toolbar=\"-mbrBtnMove\">BACK TO THE TOUR LIST</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-40"
+        }
+      ]
+    },
+    "page14.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Hanoi - Mai Chau - Pa Co - Hanoi",
+        "order": 13
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px",
+              "color": "#282828"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#90a878"
+          },
+          "title": "Ha Noi - Mai Chau - Ha Noi",
+          "meta": "3 Days 2 Nights Tour Package",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-41"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Merienda', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merienda:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merienda:400,700",
+              "font-family": "'Merienda', handwriting"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#424242"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#535353!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#5b5b5b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#90a878!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#5b5b5b",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Merienda",
+              "url": "https://fonts.googleapis.com/css?family=Merienda:400,700",
+              "css": "'Merienda', handwriting"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">ABOUT MAI CHAU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Homestay.html\" aria-expanded=\"false\">HOMESTAY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Tours.html\" aria-expanded=\"false\">TOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Activities.html\" aria-expanded=\"false\">ACTIVITIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-114x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Hoa Ban Homestay</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-42"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p5068594-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p5068594-2-1200x900-800x600.jpg",
+                "alt": "Xam Tang lake",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170927-wa0029-1599x1066.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170927-wa0029-1599x1066-800x600.jpg",
+                "alt": "Farm houses in mountains, Vietnam",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pa-co-3-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pa-co-3-1200x900-800x600.jpg",
+                "alt": "Hoa Binh mountains",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pa-co-2-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pa-co-2-1200x900-800x600.jpg",
+                "alt": "Hồ Xam Tạng",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-43"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">Itinerary: 3 days, 2 nights</span><br></p><p>Transportation: Car</p><p>Departure from: Ha Noi </p><p>Destination: Lac village, Pa Co village, Mai Chau district, Hoa Binh province</p><p><br></p><p>Mai Chau is a mountainous district, located at Hoa Binh province, the gateway of Northwest Vietnam, 140kms away from Hanoi. There are 7 ethnic groups, in which 53.7% is White Thai people, who live along the Mun stream of 32 km long. This is a famous place described in \"Tay Tien\" poem of the poet Quang Dung: \"Mai Chau - my season of fragrant sticky rice\".</p><p>Lac village of Thai ethnic group has created the identity with the values of the origin, preserved tradition, all the beautiful features. The village has simple, rustic pavilions which represent local culture, habits of daily life or festivities of traditional original beauty.&nbsp;</p><p><br></p><p><b>DAY 01: HANOI – LAC VILLAGE (Lunch and dinner included)</b></p><p><br></p><p>8:00</p><p>Car and guide pick up in Hanoi and start the journey.&nbsp;</p><p>Stop at the top of Thung Khe Pass for shooting the majestic scenery of the Northwestern mountains as well as visiting the local market to see the products and life stock sold there.</p><p><br></p><p>12:00</p><p>Arrive in Hoa Ban Homestay (Lac Village number 2 - Mai Chau - Hoa Binh) to get accomodation and experience lunch with traditional dishes of Thai ethnic group.</p><p>&nbsp; &nbsp; &nbsp;</p><p>Afternoon:&nbsp;</p><p>Bike tour around Thai villages in Mai Chau Valley to learn about the culture of local people.</p><p>Visit a traditional brocade weaving workshop and learn about textile production in Mai Chau.</p><p>Attend a training lesson of dyeing natural fabrics with the workers at the textile factory.</p><p>Go back to homestay. Together with the owner of the homestay prepare typical Thai dinner (you will learn how to cook local rice and traditional barbecue).</p><p>&nbsp;</p><p>19:00</p><p>Traditional dinner with music and dances of the Thai ethnic group.&nbsp;</p><p>Opportunity to dance/sing with the Thai men and women in the stalls.&nbsp;</p><p>Try the authentic wine (Ruou can) to feel warm affection at Mai Chau people.</p><p>&nbsp;</p><p>Overnight at Hoa Ban (private space, hot shower, free wifi)</p><p>&nbsp;&nbsp;</p><p><b>Day 2: LAC VILLAGE&nbsp;</b><b style=\"font-size: 1.07rem;\">– PA CO (Breakfast, lunch and dinner included)</b></p><p><br></p><p>07:00</p><p>Welcome the new day and have breakfast at Hoa Ban Homestay.</p><p>Check out and continue the journey to visit a fair (held only on Sundays) in Pa Co village - about 40 km from Mai Chau town. Pa Co market still preserves the tradition of ethnic markets in the northwestern region where the Hmong people sell their authentic products such as woven cloths which have been dyed natural indigo, hoes, knives, Hmong dresses full of colors, hand embroidery pieces of all sizes and farm products. If you visit the market in the right season, you will have opportunity to enjoy fresh plum or peach that are picked from early morning.&nbsp;</p><p>Buy souvenirs and go deep in the village to check in at the local homestay. After visiting and exploring the homestay area you will enjoy a traditional Hmong lunch.</p><p><br></p><p>Afternoon:</p><p>Discover the beauty of the Hmong ethnic group. Wear traditional dresses and visit the a garden, a peach garden, a plum garden or visit the ancient tea trees that have existed in the village for more than 300 years.</p><p>Try to blow in the leaves (a traditional musical instrument) with a young man of Hmong village.</p><p>&nbsp;</p><p>18:30</p><p>Traditional dinner of H'mong ethnic group in a warm atmosphere. Enjoy a cup of corn wine or dance and play a flute with the local people here.</p><p><br></p><p>Overnight at Homestay (private space, hot shower, free wifi)</p><p><br></p><p><b>Day 03: PA CO - HANOI (Breakfast included)</b></p><p><b><br></b></p><p>07:00</p><p>Teapot and breakfast at Homestay.&nbsp;</p><p>Learn about the traditional handicraft of drawing beeswax and dyeing indigo with local people and learn more about their traditional culture.</p><p><br></p><p>09:30&nbsp;</p><p>Say goodbye to the owner of Homestay and go back to Hanoi. End of the program.</p><p><br></p><p><br></p><p>Service includes:</p><p>- Transportation</p><p>- Local guide (English speaking)</p><p>- Free drinks and cold towels</p><p>- Bicycle service in Lac village</p><p>- 1 night stay at Hoa Ban homestay (private space, free wifi, hot shower)</p><p>- 1 night stay at Pa Co village (private space, free wifi, hot shower)</p><p>- Meals as per program (breakfast, lunch, dinner)</p><p>- Visit tickets according to the journey</p><p>- Cultural exchange programs, wine (ruou can)</p><p><br></p><p>Service does not include:</p><p>- Personal expenses such as drinks, shopping</p><p>- Tips for local guide and driver</p><p>- Other services not mentioned in the program</p><p>- Costs of ethnic clothing rent</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-44"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">BOOK THIS TOUR</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Tours.html\" data-toolbar=\"-mbrBtnMove\">BACK TO THE TOUR LIST</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-45"
         }
       ]
     }
