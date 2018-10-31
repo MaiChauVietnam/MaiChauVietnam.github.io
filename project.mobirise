@@ -138,7 +138,7 @@
       "settings": {
         "main": true,
         "title": "Mai Chau - Vietnam",
-        "meta_descr": "Homestay, Tourism and other Activity services in Mai Chau, Vietnam.",
+        "meta_descr": "Homestay, tours, activities  and other services in Mai Chau, Vietnam. Welcome to Hoa Ban Homestay.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -499,7 +499,7 @@
     },
     "Activities.html": {
       "settings": {
-        "meta_descr": "What to do in Mai Chau.\nWorkshops, master classes, local hand made in Mai Chau, Vietnam",
+        "meta_descr": "What to do in Mai Chau.\nWorkshops on handicrafts, folk games, taraditional dance and cooking class in Mai Chau, Vietnam",
         "title": "Activities",
         "order": 14
       },
@@ -1157,7 +1157,7 @@
     },
     "Homestay.html": {
       "settings": {
-        "meta_descr": "Home stay in Mai Chau. Hoa Ban homestay.  Online booking guesthouse, homestay. Free wifi, free breakfast, free bicycle.",
+        "meta_descr": "Welcome to Hoa Ban Homestay in Mai Chau, Vietnam. \nWe offer cultural experience of White Thai ethnic group.\nPrivate rooms and dorm, free Wi-Fi, bicycle. Restaurant with traditional cuisine. Tour service and workshops.",
         "title": "Hoa Ban Homestay",
         "order": 3
       },
@@ -1354,7 +1354,7 @@
     },
     "Tours.html": {
       "settings": {
-        "meta_descr": "Travel information about Mai Chau, Vietnam.",
+        "meta_descr": "Tour information about Mai Chau, Vietnam.",
         "title": "Tours around Mai Chau",
         "order": 4
       },
@@ -1429,9 +1429,8 @@
               "width": 600,
               "active": true,
               "link": "The_Loop.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Hoa Binh lake tour",
+              "title": ""
             }
           },
           "media2": {
@@ -1441,9 +1440,8 @@
               "width": 600,
               "active": true,
               "link": "Discovery_of_Pu_Luong_Natural_Reserve.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Pu Luong Natural Reserve",
+              "title": ""
             }
           },
           "media3": {
@@ -1453,9 +1451,8 @@
               "width": 600,
               "active": true,
               "link": "Pa-Co_and_Tat_Nang.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Tat Nang waterfall",
+              "title": ""
             }
           },
           "media4": {
@@ -1595,9 +1592,8 @@
               "width": 600,
               "active": true,
               "link": "Pa-Co_and_Batik.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Workshop bee wax batik Hmong ethnic",
+              "title": ""
             }
           },
           "media2": {
@@ -1607,9 +1603,8 @@
               "width": 600,
               "active": true,
               "link": "Discovery_of_Hoa_Bình_Lake.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Da River, Hoa Binh Lake Vietnam",
+              "title": ""
             }
           },
           "media3": {
@@ -1618,8 +1613,8 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "",
+              "link": "White_Thai_Villages_Trekking_Tour.html",
+              "alt": "Mai Chau villages trekking",
               "title": ""
             }
           },
@@ -1733,19 +1728,18 @@
               "width": 600,
               "active": true,
               "link": "Xam_Tang_Lake_at_Nong_Luong_village.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Pu Luong, Vietnam",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/p5068606-2-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p5189387-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "White_Thai_Villages_Trekking_Tour.html",
-              "alt": "",
+              "link": "Hanoi-MaiChau-Hanoi.html",
+              "alt": "Mai Chau Vietnam tour package",
               "title": ""
             }
           },
@@ -1755,8 +1749,8 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "",
+              "link": "Hanoi-MaiChau-PaCo-Hanoi.html",
+              "alt": "Mai Chau Pa Co Hmong ethnic ",
               "title": ""
             }
           },
@@ -2000,7 +1994,7 @@
     },
     "The_Loop.html": {
       "settings": {
-        "meta_descr": "The Hoa Binh Loop. Mai Chau, Vietnam",
+        "meta_descr": "Tours in Mai Chau, Vietnam",
         "title": "The Loop",
         "order": 5
       },
@@ -2229,7 +2223,7 @@
     },
     "Pa-Co_and_Batik.html": {
       "settings": {
-        "meta_descr": "Expirience of the Hmong market in Pa Co village and local authentic handycraft - batik - with natural fabrick and colors.",
+        "meta_descr": "Expirience of the Hmong market in Pa Co village and authentic handicraft - batik - with natural fabrick and colors.",
         "title": "Pa Co and Batik",
         "order": 9
       },
@@ -2451,7 +2445,7 @@
     },
     "Pa-Co_and_Tat_Nang.html": {
       "settings": {
-        "meta_descr": "Expirience of the Hmong market in Pa Co village and travel to Tat Nang waterfall",
+        "meta_descr": "Expirience of the Hmong ethnic market in Pa Co village and Tat Nang waterfall in Northern Vietnam",
         "title": "Pa Co and Tat Nang",
         "order": 8
       },
@@ -2673,7 +2667,7 @@
     },
     "Discovery_of_Hoa_Bình_Lake.html": {
       "settings": {
-        "meta_descr": "Hoa Binh Lake - travel by boat to the temple island",
+        "meta_descr": "Hoa Binh Lake tour - travel by boat to the temple island",
         "title": "Discovery of Hoa Bình Lake",
         "order": 10
       },
@@ -2895,7 +2889,7 @@
     },
     "White_Thai_Villages_Trekking_Tour.html": {
       "settings": {
-        "meta_descr": "Exploring of the White Thai villages in Mai Chau, Vietnam",
+        "meta_descr": "Exploring of the White Thai ethnic group villages in Mai Chau, Vietnam",
         "title": "White Thai Villages Trekking Tour",
         "order": 7
       },
@@ -3123,7 +3117,7 @@
     },
     "Discovery_of_Pu_Luong_Natural_Reserve.html": {
       "settings": {
-        "meta_descr": "Travel to Pu Luong Natural Reserve from Mai Chau, Vietnam",
+        "meta_descr": "Pu Luong Natural Reserve. Tour from Mai Chau, Vietnam",
         "title": "Discovery of Pu Luong Natural Reserve",
         "order": 6
       },
@@ -3691,7 +3685,7 @@
     },
     "Xam_Tang_Lake_at_Nong_Luong_village.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Tours in Mai Chau, Vietnam",
         "title": "Xam Tạng Lake at Nong Luông village",
         "order": 11
       },
@@ -3911,9 +3905,9 @@
         }
       ]
     },
-    "page13.html": {
+    "Hanoi-MaiChau-Hanoi.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Mai Chau is one of the attractive destinations of the Northern Vietnam, with its magnificent rutes and cultural experiences. Come to Hoaban homestay for a day trip to Mai Chau to discover and learn about local life here.",
         "title": "Hanoi - Mai Chau - Hanoi",
         "order": 12
       },
@@ -4054,10 +4048,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5259605-1280x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5259605-1280x960-800x600.jpg",
-                "alt": "Xam Tang lake",
+                "alt": "Mai Chau Vietnam",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -4066,7 +4060,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/rice2-1280x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rice2-1280x960-800x600.jpg",
-                "alt": "Hoa Binh mountains",
+                "alt": "Mai Chau tours",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -4078,7 +4072,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-20170927-wa0040-2-1599x1066.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170927-wa0040-2-1599x1066-800x600.jpg",
-                "alt": "Farm houses in mountains, Vietnam",
+                "alt": "Handicraft workshop Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -4090,10 +4084,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5068606-2-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5068606-2-1200x900-800x600.jpg",
-                "alt": "Hồ Xam Tạng",
+                "alt": "Mai Chau tours Vietnam",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -4133,9 +4127,9 @@
         }
       ]
     },
-    "page14.html": {
+    "Hanoi-MaiChau-PaCo-Hanoi.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Ha Noi - Mai Chau - Ha Noi\n3 Days 2 Nights Tour Package\nLac village, Pa Co village, Mai Chau district, Hoa Binh province\nCultural experience in Northern Vietnam",
         "title": "Hanoi - Mai Chau - Pa Co - Hanoi",
         "order": 13
       },
@@ -4276,10 +4270,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p5068594-2-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p5068594-2-1200x900-800x600.jpg",
-                "alt": "Xam Tang lake",
+                "alt": "Mai Chau villages tour",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -4288,7 +4282,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-20170927-wa0029-1599x1066.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170927-wa0029-1599x1066-800x600.jpg",
-                "alt": "Farm houses in mountains, Vietnam",
+                "alt": "Handicraft Workshop Mai Chau Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -4300,7 +4294,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/pa-co-3-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/pa-co-3-1200x900-800x600.jpg",
-                "alt": "Hoa Binh mountains",
+                "alt": "Hmong ethnic culture Pa Co Vietnam",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -4312,10 +4306,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/pa-co-2-1200x900.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/pa-co-2-1200x900-800x600.jpg",
-                "alt": "Hồ Xam Tạng",
+                "alt": "Tea farm Hmong village Pa Co Vietnam",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
